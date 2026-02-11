@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+temp_clean.csv
+data/raw_s3.csv
+data/cleaned_simple.csv
+.venv/
+env/
